@@ -1,6 +1,6 @@
 <h3>Latest</h3>
 
-👉 [PBI Advanced DAX for Data Analysis](https://github.com/chieh-kao-1125/Certificates/blob/main/Files/PBI%20Advanced%20DAX%20for%20Data%20Analysis.pdf)
+👉 [PBI Advanced DAX for Data Analysis](https://www.udemy.com/certificate/UC-98ad2248-cffd-40c9-a23e-5177d4064bbf/)
 
 👉 [Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/01082802/440AF68661AF8347?sharingId)
 
